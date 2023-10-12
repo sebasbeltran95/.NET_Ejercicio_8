@@ -1,0 +1,14 @@
+D:\platzi\while\while\bin\Debug\net6.0\while.exe
+D:\platzi\while\while\bin\Debug\net6.0\while.deps.json
+D:\platzi\while\while\bin\Debug\net6.0\while.runtimeconfig.json
+D:\platzi\while\while\bin\Debug\net6.0\while.dll
+D:\platzi\while\while\bin\Debug\net6.0\while.pdb
+D:\platzi\while\while\obj\Debug\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzi\while\while\obj\Debug\net6.0\while.AssemblyInfoInputs.cache
+D:\platzi\while\while\obj\Debug\net6.0\while.AssemblyInfo.cs
+D:\platzi\while\while\obj\Debug\net6.0\while.csproj.CoreCompileInputs.cache
+D:\platzi\while\while\obj\Debug\net6.0\while.dll
+D:\platzi\while\while\obj\Debug\net6.0\refint\while.dll
+D:\platzi\while\while\obj\Debug\net6.0\while.pdb
+D:\platzi\while\while\obj\Debug\net6.0\while.genruntimeconfig.cache
+D:\platzi\while\while\obj\Debug\net6.0\ref\while.dll
